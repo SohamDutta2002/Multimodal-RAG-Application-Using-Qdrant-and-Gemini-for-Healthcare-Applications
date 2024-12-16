@@ -45,7 +45,7 @@ Key Technologies
 - Qdrant: Vector database for indexing and searching
 - Guardio: Application layer for query-response management
 
-#Setting Up the Environment
+Setting Up the Environment
 ---
 Install Required Libraries <br>
 ```
