@@ -9,7 +9,8 @@ Project Overview
 ---
 This project builds a Retrieval-Augmented Generation (RAG) system combining Google's Gemini, Qdrant, and a custom application for efficient query and response handling.
 
-#Pipeline Workflow
+Pipeline Workflow
+---
 *Input: Image + DoctorNotes
 
 *Images and notes are fed into the pipeline for processing.
