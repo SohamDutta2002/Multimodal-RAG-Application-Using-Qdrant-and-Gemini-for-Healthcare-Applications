@@ -44,3 +44,26 @@ Key Technologies
 - Google Gemini: Image and document summarization
 - Qdrant: Vector database for indexing and searching
 - Guardio: Application layer for query-response management
+
+#Setting Up the Environment
+---
+Install Required Libraries <br>
+```
+!pip install llama-index
+!pip install 'google-generativeai>=0.3.0' qdrant_client
+!pip install llama-index-multi-modal-llms-gemini
+!pip install llama-index-vector-stores-qdrant
+!pip install llama-index-embeddings-gemini
+!python3 -m pip install --upgrade qdrant-client fastembed Pillow
+!pip install llama-index-llms-gemini
+!pip install pyarrow==15.0.2
+!pip uninstall -y pyarrow datasets
+!pip install datasets sentence_transformers
+!pip install llama-index-embeddings-clip
+!pip install git+https://github.com/openai/CLIP.git
+!pip install llama-index-embeddings-fastembed
+!pip install --upgrade langchain-experimental qdrant-client datasets sentence_transformers
+
+!pip install gradio
+!pip install pyngrok
+```
