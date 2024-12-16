@@ -6,7 +6,7 @@
 ![Qdrant](https://img.shields.io/badge/Qdrant-Search%20Engine-green)
 
 #Project Overview
-*This project builds a Retrieval-Augmented Generation (RAG) system combining Google's Gemini, Qdrant, and a custom application for efficient query and response handling.
+---This project builds a Retrieval-Augmented Generation (RAG) system combining Google's Gemini, Qdrant, and a custom application for efficient query and response handling.
 
 #Pipeline Workflow
 *Input: Image + DoctorNotes
