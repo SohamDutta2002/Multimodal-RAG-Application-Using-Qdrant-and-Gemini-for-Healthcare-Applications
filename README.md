@@ -35,9 +35,9 @@ The system provides responses based on retrieved data.
 App (Guardio)
 
 The application integrates the entire pipeline and facilitates:
-Query input
-Query retrieval
-Response delivery
+- Query input
+- Query retrieval
+- Response delivery
 
 Key Technologies
 ---
