@@ -39,7 +39,8 @@ Query input
 Query retrieval
 Response delivery
 
-#Key Technologies
-Google Gemini: Image and document summarization
-Qdrant: Vector database for indexing and searching
-Guardio: Application layer for query-response management
+Key Technologies
+---
+- Google Gemini: Image and document summarization
+- Qdrant: Vector database for indexing and searching
+- Guardio: Application layer for query-response management
