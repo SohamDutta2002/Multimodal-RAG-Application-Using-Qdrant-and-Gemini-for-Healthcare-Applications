@@ -67,3 +67,10 @@ Install Required Libraries <br>
 !pip install gradio
 !pip install pyngrok
 ```
+Download and Preprocess the ROCO Dataset<br>
+```
+!git clone https://github.com/razorx89/roco-dataset.git
+cd roco-dataset
+!python /content/roco-dataset/scripts/fetch.py -d
+```
+
